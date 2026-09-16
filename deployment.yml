@@ -17,4 +17,4 @@ spec:
         - name: cont-1
           image: subbareddyiv/mytetrisgame:v1
           ports:
-            - containerPort: 80
+            - containerPort: 3000
